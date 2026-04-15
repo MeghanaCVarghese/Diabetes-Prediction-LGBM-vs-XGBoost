@@ -88,6 +88,11 @@ The goal of this project is to:
   - Better handling of complex patterns
   - More robust to noise
 
+| Model      | Accuracy | Precision | Recall | F1 Score |
+|------------|----------|----------|--------|----------|
+| LightGBM   | 0.72     | 0.60     | 0.65   | 0.62     |
+| XGBoost    | 0.71     | 0.58     | 0.67   | 0.62     |
+
 ---
 
 ## 📊 Feature Importance
