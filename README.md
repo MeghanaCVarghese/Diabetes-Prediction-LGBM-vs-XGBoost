@@ -140,17 +140,6 @@ Key features influencing diabetes prediction:
 
 ---
 
-## 📁 Project Structure
-
-Diabetes-Prediction-LGBM-vs-XGBoost/
-│── diabetes.csv
-│── diabetes_model.ipynb
-│── requirements.txt
-│── images/
-│── README.md
-
-
----
 
 ## 👩‍💻 Author
 
