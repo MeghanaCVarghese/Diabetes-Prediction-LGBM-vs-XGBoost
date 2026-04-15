@@ -1,5 +1,11 @@
 # 🚀 Diabetes Prediction using LightGBM vs XGBoost
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Yes-green)
+![LightGBM](https://img.shields.io/badge/Model-LightGBM-orange)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 This project focuses on predicting diabetes using machine learning models and comparing the performance of two powerful gradient boosting algorithms: **LightGBM** and **XGBoost**.
 
 ---
